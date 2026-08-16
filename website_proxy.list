@@ -14,3 +14,8 @@ HOST-SUFFIX,nic.ua,website_proxy
 HOST-SUFFIX,manus.im,website_proxy
 HOST-SUFFIX,manuscdn.com,website_proxy
 HOST-SUFFIX,1024.day,website_proxy
+
+# ==================== OpenRouter ====================
+HOST-SUFFIX, openrouter.ai, website_proxy
+HOST, openrouter.ai, website_proxy
+HOST-KEYWORD, openrouter, website_proxy
