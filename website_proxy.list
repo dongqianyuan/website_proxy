@@ -15,7 +15,30 @@ HOST-SUFFIX,manus.im,website_proxy
 HOST-SUFFIX,manuscdn.com,website_proxy
 HOST-SUFFIX,1024.day,website_proxy
 
+
 # ==================== OpenRouter ====================
 HOST-SUFFIX, openrouter.ai, website_proxy
 HOST, openrouter.ai, website_proxy
 HOST-KEYWORD, openrouter, website_proxy
+
+# ==================== 富途 ====================
+DOMAIN-SUFFIX,futunn.com,website_proxy
+DOMAIN-SUFFIX,futuhk.com,website_proxy
+DOMAIN-SUFFIX,moomoo.com,website_proxy
+DOMAIN-SUFFIX,futustatic.com,website_proxy
+DOMAIN-SUFFIX,fututrade.com,website_proxy
+DOMAIN-SUFFIX,futuhn.com,website_proxy
+DOMAIN-SUFFIX,futu.com,website_proxy
+DOMAIN-SUFFIX,futu0.com,website_proxy
+DOMAIN-SUFFIX,futu1.com,website_proxy
+DOMAIN-SUFFIX,futu2.com,website_proxy
+DOMAIN-SUFFIX,futu3.com,website_proxy
+DOMAIN-SUFFIX,futu4.com,website_proxy
+DOMAIN-SUFFIX,futu5.com,website_proxy
+DOMAIN-SUFFIX,futu6.com,website_proxy
+DOMAIN-SUFFIX,futu7.com,website_proxy
+DOMAIN-SUFFIX,futu8.com,website_proxy
+DOMAIN-SUFFIX,futu9.com,website_proxy
+DOMAIN-KEYWORD,futunn,website_proxy
+DOMAIN-KEYWORD,futubull,website_proxy
+DOMAIN-KEYWORD,futuhk,website_proxy
